@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Ekta Rathi
 
-💻 Frontend-focused Software Engineer |Vue/Nuxt & Go Enthusiast  
+💻 Software Engineer |Vue/Nuxt & Go, Node Enthusiast  
 
 I enjoy building **scalable, performant, and developer-friendly web apps**.  
 I also create open-source tools that make starting new projects faster and easier.  
